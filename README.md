@@ -1,10 +1,8 @@
 <h1 align="center"><img src="https://github.com/VYR4L/VYR4L/blob/main/media/Hi.gif" width="40px"> Olá! Eu sou o Felipe</h1>
 
-<h1>
 🎓 Estudante de Ciência da Computação na UNIOESTE<br>
 💻 Desenvolvedor com foco em Python, Java e desenvolvimento web<br>
 🚀 Apaixonado por tecnologia e sempre em busca de novos aprendizados  
-</h1>
 
 
 ## 👨‍💻 Principais Tecnologias
