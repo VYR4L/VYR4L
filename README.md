@@ -26,6 +26,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![DotNet](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
+## 📌 Projetos em destaque
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|--------------|
 | [Facial Expression Recognizer](https://github.com/VYR4L/Facial-Expression-Recognizer) | CNN para reconhecimento de expressões faciais | Python, PyTorch, SkLearn, PyQT6 |
