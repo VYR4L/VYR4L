@@ -31,6 +31,7 @@
 |--------|-----------|--------------|
 | [Facial Expression Recognizer](https://github.com/VYR4L/Facial-Expression-Recognizer) | CNN para reconhecimento de expressões faciais | Python, PyTorch, SkLearn, PyQT6 |
 | [Sensoriamento Remoto](https://github.com/VYR4L/Sensoriamento-Remoto) | Fusão de imagens espaciais através da banda Pancromática | Python, GDAL, CSS |
+| [Spotify](https://github.com/VYR4L/Spotify) | Clone do reprodutor do Spotify | React, Node, Express, MongoDB |
 | [PES1 Big Casa](https://github.com/VYR4L/PES_1_Big_Casa/tree/Reestruturado) | Site para o controle de horários da empresa Big Casa | Django, HTML, CSS, JavaScript |
 
 <br> 
