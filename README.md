@@ -8,8 +8,9 @@
 ## 👨‍💻 Principais Tecnologias
 
 ![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/PyThorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyThorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-555555?style=for-the-badge&logo=pandas&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-%23092E20?style=for-the-badge&logo=django)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
