@@ -24,6 +24,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 🧠 Estudando agora
+![GO](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![DotNet](https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
