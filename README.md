@@ -38,7 +38,7 @@
 
 <br> 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VYR4L&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VYR4L&theme=dark&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 
 📫 Onde me encontrar
 
